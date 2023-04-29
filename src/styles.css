@@ -1,0 +1,65 @@
+/* wirte css use gredient for all elements  */
+
+body {
+      /* background: linear-gradient(to right, #D3F5CF, #A8DBFA, #635EE2); */
+            background: linear-gradient(to right, #1fa0ff, #12dafb,#a7fdcc);
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Header */
+header {
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+/* Main */
+main {
+  padding-top: 4rem;
+}
+
+/* Footer */
+footer {
+  background: #fff;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+/* Button */
+.btn {
+  color: #fff;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: #28a745;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-info {
+  background-color: #0b424a;
+}
+
+.btn-danger {
+  background-color: #000000;
+}

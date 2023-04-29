@@ -1,0 +1,40 @@
+.navbar {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 0.5rem;
+    
+     
+  }
+  
+  .navbar h2 {
+  
+    margin: 0;
+    cursor: pointer;
+    
+  }
+  
+  .navbar button {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .navbar .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .navbar .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .navbar .btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .navbar .btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+  }
+  

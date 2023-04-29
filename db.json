@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "Damon",
+      "email": "xyz@gmail.com",
+      "dob": "2002-09-09",
+      "height": 100,
+      "weight": "100"
+    },
+    {
+      "id": 5,
+      "name": "krish ",
+      "email": "krish@gmail.com",
+      "dob": "2003-05-06",
+      "height": 175,
+      "weight": "60"
+    }
+  ],
+  "comments": [],
+  "profile": [
+    {
+      "id": "2",
+      "name": "",
+      "action": "Present"
+    },
+    {
+      "id": "3",
+      "name": "",
+      "action": "Present"
+    },
+    {
+      "id": "4",
+      "name": "",
+      "action": "Present"
+    },
+    [
+      {
+        "id": "2",
+        "name": "",
+        "action": "Present"
+      },
+      {
+        "id": "3",
+        "name": "",
+        "action": "Absent"
+      },
+      {
+        "id": "4",
+        "name": "",
+        "action": "Present"
+      }
+    ],
+    [
+      {
+        "id": "2",
+        "name": "",
+        "action": "Present"
+      },
+      {
+        "id": "3",
+        "name": "",
+        "action": "Absent"
+      },
+      {
+        "id": "4",
+        "name": "",
+        "action": "Present"
+      }
+    ]
+  ]
+}

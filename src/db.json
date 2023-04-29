@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "krish",
+      "email": "krish@gmail.com",
+      "dob": "2003-05-06",
+      "height": 100,
+      "weight": "60"
+    },
+    {
+      "id": 2,
+      "name": "Amal Krishna. M",
+      "email": "amal.krishna@gmail.com",
+      "dob": "2003-08-25",
+      "height": 145,
+      "weight": "69"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
